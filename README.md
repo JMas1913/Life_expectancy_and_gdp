@@ -22,12 +22,18 @@ Six countries were included in my analysis, being: Chile, China, Germany, Mexico
 5) What is the distribution of the countries’ life expectancy?
   - As of 2015, the country with the highest life expectancy was Germany at 79.6 years old, followed by Chile and the US, respectively at 78.9 and 78 years old. Most of the countries with the lowest life expectancy are usually African countries, with Zimbabwe in our analysis having a life expectancy of mere 50 years old.
 
+---
+
 **Conclusions**
+
 Although the data analyzed for this project had only 96 rows and 4 columns, we were still able to make quite a few data visualizations, and get answers to questions such as the correlation between GDP and a country’s life expectancy.
 
 With this analysis and visualization we have also conclude the following:
 
 Even though the GDP of the United States was approximately twice that of the other countries, the life expectancy was within the same range as all the others, except Zimbabwe. This indicates that a country’s GDP plays some factor in the life expectancy, but does not completely determine it. One good example of this is Chile, of the countries with a high life expectancy, Chile had a GDP similar to Zimbabwe.
 
+---
+
 **Further Research**
+
 The study wanted to explore what happened in China between 2005 and 2015 that caused its GDP to increase so dramatically. This [Forbes article](https://www.forbes.com/sites/peterpham/2018/03/06/is-there-a-secret-growth-hormone-added-to-chinas-economy/#40869ba53f13) describes how China's unmatched GDP growth in that decade were due to its large population, newly available capital, and manufacturing efficiency.
